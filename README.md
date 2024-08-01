@@ -38,7 +38,7 @@ Usage
 
     bash
 
-git clone https://github.com/yourusername/system-info-script.git
+git clone https://github.com/sp3c1fic/system_inventory.git
 
 Navigate to the script directory:
 
