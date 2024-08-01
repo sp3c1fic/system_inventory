@@ -36,25 +36,17 @@ Usage
 
     Clone the repository:
 
-    bash
-
 git clone https://github.com/sp3c1fic/system_inventory.git
 
 Navigate to the script directory:
-
-bash
 
 cd system-info-script
 
 Make the script executable:
 
-bash
-
 chmod +x system_info.sh
 
 Run the script:
-
-bash
 
     ./system_info.sh
 
